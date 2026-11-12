@@ -1,0 +1,3 @@
+name = "tg-proxy"       # Должно совпадать с именем Worker в Cloudflare
+main = "XYUTA.js"       # Имя твоего файла с кодом
+compatibility_date = "2026-11-12"
